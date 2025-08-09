@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+implicit
+librosa
+sqlmodel
+sqlalchemy
+pydantic
+streamlit
+requests
+pytest
