@@ -1,0 +1,5 @@
+track_id,title,artist,genre,energy,danceability,valence,tempo
+1,Track One,Artist A,pop,0.8,0.7,0.6,120
+2,Track Two,Artist B,rock,0.6,0.5,0.4,110
+3,Track Three,Artist C,jazz,0.4,0.6,0.5,130
+4,Track Four,Artist D,electronic,0.9,0.8,0.7,140
